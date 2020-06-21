@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">CalculaResistencia</string>
+    <string name="Titulo_1_TV">1° Cifra</string>
+    <string name="Calcular.TX">Obtener Valor</string>
+
+    <array name="Colores">
+
+        <item> "Negro" </item>
+        <item> "Café" </item>
+        <item> "Rojo" </item>
+        <item> "Naranja" </item>
+        <item> "Amarillo" </item>
+        <item> "Verde" </item>
+        <item> "Azul" </item>
+        <item> "Morado" </item>
+        <item> "Gris" </item>
+        <item> "Blanco" </item>
+
+    </array>
+    <array name="Colores1">
+
+        <item> "Café" </item>
+        <item> "Rojo" </item>
+        <item> "Naranja" </item>
+        <item> "Amarillo" </item>
+        <item> "Verde" </item>
+        <item> "Azul" </item>
+        <item> "Morado" </item>
+        <item> "Gris" </item>
+        <item> "Blanco" </item>
+    </array>
+
+    <array name="Colores2">
+
+        <item> "Café" </item>
+        <item> "Rojo" </item>
+        <item> "Naranja" </item>
+        <item> "Amarillo" </item>
+        <item> "Verde" </item>
+        <item> "Azul" </item>
+        <item> "Morado" </item>
+        <item> "Oro" </item>
+        <item> "Plata" </item>
+    </array>
+</resources>
